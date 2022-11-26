@@ -1,6 +1,6 @@
 # Hola 👋 !! Soy Gustavo De Llac
 Estudiante desarrollo web Full Stack.
 
-![Background](https://www.freepik.es/vector-gratis/numeros-que-caen-digitales-codigo-binario-estilo-matrix-fondo-azul_24600855.htm#query=developer&position=14&from_view=search&track=sph).
+![Background](https://github.com/gusdellac/gusdellac/blob/main/4182a9dd330c6442c4a1fbc78274d838.png)
 
 
