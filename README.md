@@ -3,7 +3,7 @@
 *Me encanta codear, me genera mucha satisfacción imaginar soluciones y poder plasmar esas ideas. Me motiva el aprendizaje constante, la enorme fuente de información que nos ofrece internet, la comunidad de programadores open source, y la gran diversidad de tecnologías y herramientas que podemos utilizar para crear software.*
 
 Actualmente me encuentro cursando una tecnicatura universitaria en programación (UTN San Rafael).
-Participe del programa ONE (Oracle Next Education) / Plataforma Alura, en donde adquirí conocimientos tanto en frontend como en backend (html, css, javascript, nodejs, java, sql/mysql).
+Participé del programa ONE (Oracle Next Education) / Plataforma Alura, en donde adquirí conocimientos tanto en frontend como en backend (html, css, javascript, nodejs, java, sql/mysql).
 
 
 Tengo un especial interés en adquirir un conocimiento avanzado en Java por lo que me encuentro realizando una capacitación en [Udemy](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/).
