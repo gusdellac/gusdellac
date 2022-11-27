@@ -1,6 +1,6 @@
 # Hola 👋 Soy Gustavo!
 ### Estudiante de desarrollo Web Full Stack.
-*Me encanta codear, me genera mucha satisfacción imaginar soluciones y poder plasmar esas ideas en código. Me motiva el aprendizaje constante, la enorme fuente de información que nos ofrece internet, la comunidad de programadores open source, y la gran diversidad de tecnologías y herramientas que podemos utilizar para crear software.*
+*Me encanta programar, me genera mucha satisfacción imaginar soluciones y poder plasmar esas ideas en código. Me motiva el aprendizaje constante, la enorme fuente de información que nos ofrece internet, la comunidad de programadores open source, y la gran diversidad de tecnologías y herramientas que podemos utilizar para crear software.*
 
 Actualmente me encuentro cursando una tecnicatura universitaria en programación (UTN San Rafael).
 Participé del programa ONE (Oracle Next Education) / Plataforma Alura, en donde adquirí conocimientos tanto en frontend como en backend (html, css, javascript, nodejs, java, sql/mysql).
