@@ -6,7 +6,7 @@ Actualmente me encuentro cursando una tecnicatura universitaria en programación
 Participé del programa ONE (Oracle Next Education) / Plataforma Alura, en donde adquirí conocimientos tanto en frontend como en backend (html, css, javascript, nodejs, java, sql/mysql).
 
 
-Tengo un especial interés en obtener un conocimiento avanzado en Java por lo que me encuentro realizando una capacitación en [Udemy](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/).
+Tengo un especial interés en profundizar mis conocimientos en Java por lo que me encuentro realizando una capacitación en [Udemy](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/).
 También estoy comenzando el aprendizaje en librerías para frontend como Bootstrap y Materialize, y en el framework Angular js.
 
 Tecnologías:
