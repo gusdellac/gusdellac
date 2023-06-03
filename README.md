@@ -2,12 +2,8 @@
 ### Estudiante de desarrollo Web Full Stack.
 *Me genera mucha satisfacción imaginar soluciones a diferentes problemas y poder plasmar esas ideas en código. Me motiva el aprendizaje constante, la enorme fuente de información que nos ofrece internet, la comunidad de programadores open source, y la gran diversidad de tecnologías y herramientas que podemos utilizar para crear software.*
 
-Actualmente me encuentro cursando una tecnicatura universitaria en programación (UTN San Rafael).
-Participé del programa ONE (Oracle Next Education) / Plataforma Alura, en donde adquirí conocimientos tanto en frontend como en backend (html, css, javascript, nodejs, java, sql/mysql).
-
-
-Tengo un especial interés en profundizar mis conocimientos en Java por lo que me encuentro realizando una capacitación en [Udemy](https://www.udemy.com/course/master-completo-java-de-cero-a-experto/).
-También estoy comenzando el aprendizaje en librerías para frontend como Bootstrap y Materialize, y en el framework Angular js.
+Actualmente estoy aprendiendo desarrollo web con stack MERN y profundizando mis conocimientos en Python y Java. 
+Tengo conocimientos en bases de datos relacionales con MySQL-PostgreSQL, control de versiones con GIT/GITHUB, metodologías ágiles con marco Scrum y diseño con herramientas como Figma.
 
 Tecnologías:
 
