@@ -2,7 +2,7 @@
 ### Desarrollador Web Full Stack Jr.
 *Me genera mucha satisfacción imaginar soluciones a diferentes problemas y poder plasmar esas ideas en código. Me motiva el aprendizaje constante, la enorme fuente de información que nos ofrece internet, la comunidad de programadores open source, y la gran diversidad de tecnologías y herramientas que podemos utilizar para crear software.*
 
-Actualmente estoy aprendiendo desarrollo web con stack MERN y profundizando mis conocimientos PHP. 
+Actualmente estoy aprendiendo desarrollo web con stack MERN y profundizando mis conocimientos en PHP. 
 Tengo conocimientos en bases de datos relacionales con MySQL|MariaDB, control de versiones con GIT/GITHUB, metodologías ágiles con marco Scrum y diseño con herramientas como Figma.
 
 Tecnologías:
