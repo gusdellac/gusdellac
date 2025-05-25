@@ -11,6 +11,4 @@ Tecnologías:
 
 Redes: 
 
-[![Instagram](https://github.com/gusdellac/gusdellac/blob/main/socialmedia/instagram.png)](http://instagram.com/gustavodellac) [![Linkedin](https://github.com/gusdellac/gusdellac/blob/main/socialmedia/Linkedin.png)](https://www.linkedin.com/in/gustavo-de-llac-2803b5177/) [![Twitter](https://github.com/gusdellac/gusdellac/blob/main/socialmedia/Twiiter.png)](https://twitter.com/gus_dellac) [![Gmail](https://github.com/gusdellac/gusdellac/blob/main/socialmedia/Gmail.png)](gustavodellac@gmail.com) 
-
-
+[![Linkedin](https://github.com/gusdellac/gusdellac/blob/main/socialmedia/Linkedin.png)](https://www.linkedin.com/in/gustavo-de-llac-2803b5177/)
